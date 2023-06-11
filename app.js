@@ -5,7 +5,6 @@ const searchInput = document.getElementById("inputBusqueda");
 const searchBySelect = document.getElementById("buscarPor");
 const buscarBoton = document.getElementById("buscarBoton");
 const InfoDiv = document.getElementById("resultado");
-const FavBtn = document.getElementById("agregarFav");
 function buscar() {
   const searchBy = searchBySelect.value;
   if (searchBy == "song") {
@@ -39,7 +38,6 @@ function buscarCancion(searchBy) {
         <p>Artista: ${foundSong.artist}</p>
         <p>Año: ${album.year}</p>
         <img src="${album.imageUrl}" alt="Imagen del álbum ${album.name}">
-        <button type="button" class="btn" id="agregarFav">Agregar a favoritos ♥</button>
     `;
   } else {
     InfoDiv.innerHTML = " ";
