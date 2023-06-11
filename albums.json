@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Dangerously in love",
+    "artist": "beyonce",
+    "year": 2003,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/84/Dangerously_In_Love_Album%282003%29.png"
+  },
+  {
+    "id": 2,
+    "name": "B Day",
+    "artist": "beyonce",
+    "year": 2006,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png"
+  },
+  {
+    "id": 3,
+    "name": "I Am Sasha Fierce",
+    "artist": "beyonce",
+    "year": 2008,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/96/I_Am..._Sasha_Fierce.png"
+  },
+  {
+    "id": 4,
+    "name": "4",
+    "artist": "Beyonce",
+    "year": 2011,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/ca/Beyonc%C3%A9_-_4.png"
+  },
+  {
+    "id": 5,
+    "name": "BEYONCE",
+    "artist": "Beyonce",
+    "year": 2013,
+    "imageUrl": "https://i.discogs.com/scq1oRmwXZHFZKOEqZkzjH1xvVVbD-9zCmAgepbgfs8/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTYxMTIyODU1/NC04NDA3LnBuZw.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Lemonade",
+    "artist": "Beyonce",
+    "year": 2016,
+    "imageUrl": "https://silenciowp.s3.amazonaws.com/wp-content/uploads/2016/05/LEMONADE.jpg"
+  },
+  {
+    "id": 7,
+    "name": "The Gift",
+    "artist": "Beyonce",
+    "year": 2019,
+    "imageUrl": "https://i.discogs.com/TW_D-ESrmgKRqVPmvxv5Rah-iv_nFhi1TCtso3ve6Dg/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjI3/NTAzLTE2MTQ1MjQ3/MTQtNTQ1Mi5qcGVn.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Renaissance",
+    "artist": "Beyonce",
+    "year": 2022,
+    "imageUrl": "https://m.media-amazon.com/images/I/31Zk63xOu3L._SX300_SY300_QL70_ML2_.jpg"
+  }
+]

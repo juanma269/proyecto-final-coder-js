@@ -1,0 +1,744 @@
+[
+  {
+    "id": 1,
+    "name": "Crazy in Love (ft Jay-Z)",
+    "albumId": 1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/84/Dangerously_In_Love_Album%282003%29.png"
+  },
+  {
+    "id": 2,
+    "name": "Naughty Girl",
+    "albumId": 1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/84/Dangerously_In_Love_Album%282003%29.png"
+  },
+  {
+    "id": 3,
+    "name": "Baby Boy (ft Sean Paul)",
+    "albumId": 1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/84/Dangerously_In_Love_Album%282003%29.png"
+  },
+  {
+    "id": 4,
+    "name": "Hip Hop Star",
+    "albumId": 1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/84/Dangerously_In_Love_Album%282003%29.png"
+  },
+  {
+    "id": 5,
+    "name": "Be with You",
+    "albumId": 1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/84/Dangerously_In_Love_Album%282003%29.png"
+  },
+  {
+    "id": 6,
+    "name": "Me, Myself and I",
+    "albumId": 1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/84/Dangerously_In_Love_Album%282003%29.png"
+  },
+  {
+    "id": 7,
+    "name": "Signs",
+    "albumId": 1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/84/Dangerously_In_Love_Album%282003%29.png"
+  },
+  {
+    "id": 8,
+    "name": "Speechless",
+    "albumId": 1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/84/Dangerously_In_Love_Album%282003%29.png"
+  },
+  {
+    "id": 9,
+    "name": "That's How You Like It (ft Jay-Z)",
+    "albumId": 1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/84/Dangerously_In_Love_Album%282003%29.png"
+  },
+  {
+    "id": 10,
+    "name": "The Closer I Get to You",
+    "albumId": 1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/84/Dangerously_In_Love_Album%282003%29.png"
+  },
+
+  {
+    "id": 11,
+    "name": "Déjà Vu",
+    "albumId": 2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png"
+  },
+  {
+    "id": 12,
+    "name": "Get Me Bodied",
+    "albumId": 2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png"
+  },
+  {
+    "id": 13,
+    "name": "Suga Mama",
+    "albumId": 2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png"
+  },
+  {
+    "id": 14,
+    "name": "Upgrade U",
+    "albumId": 2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png"
+  },
+  {
+    "id": 15,
+    "name": "Ring the Alarm",
+    "albumId": 2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png"
+  },
+  {
+    "id": 16,
+    "name": "Kitty Kat",
+    "albumId": 2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png"
+  },
+  {
+    "id": 17,
+    "name": "Freakum Dress",
+    "albumId": 2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png"
+  },
+  {
+    "id": 18,
+    "name": "Green Light",
+    "albumId": 2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png"
+  },
+  {
+    "id": 19,
+    "name": "Irreplaceable",
+    "albumId": 2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png"
+  },
+  {
+    "id": 20,
+    "name": "Check On It",
+    "albumId": 2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png"
+  },
+  {
+    "id": 21,
+    "name": "Listen",
+    "albumId": 2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png"
+  },
+  {
+    "id": 22,
+    "name": "Beautiful Liar",
+    "albumId": 2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png"
+  },
+  {
+    "id": 23,
+    "name": "Amor Gitano",
+    "albumId": 2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png"
+  },
+  {
+    "id": 24,
+    "name": "Back Up",
+    "albumId": 2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png"
+  },
+  {
+    "id": 25,
+    "name": "Creole",
+    "albumId": 2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png"
+  },
+  {
+    "id": 26,
+    "name": "Lost Yo Mind",
+    "albumId": 2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png"
+  },
+  {
+    "id": 27,
+    "name": "Encore for the Fans",
+    "albumId": 2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png"
+  },
+  {
+    "id": 28,
+    "name": "Irreemplazable",
+    "albumId": 2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c4/Beyonc%C3%A9_-_B%27Day.png"
+  },
+  {
+    "id": 29,
+    "name": "If I Were a Boy",
+    "albumId": 3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/96/I_Am..._Sasha_Fierce.png"
+  },
+  {
+    "id": 30,
+    "name": "Halo",
+    "albumId": 3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/96/I_Am..._Sasha_Fierce.png"
+  },
+  {
+    "id": 31,
+    "name": "Disappear",
+    "albumId": 3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/96/I_Am..._Sasha_Fierce.png"
+  },
+  {
+    "id": 32,
+    "name": "Broken-Hearted Girl",
+    "albumId": 3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/96/I_Am..._Sasha_Fierce.png"
+  },
+  {
+    "id": 33,
+    "name": "Ave Maria",
+    "albumId": 3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/96/I_Am..._Sasha_Fierce.png"
+  },
+  {
+    "id": 34,
+    "name": "Satellites",
+    "albumId": 3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/96/I_Am..._Sasha_Fierce.png"
+  },
+  {
+    "id": 35,
+    "name": "Smash into You",
+    "albumId": 3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/96/I_Am..._Sasha_Fierce.png"
+  },
+  {
+    "id": 36,
+    "name": "That's Why You're Beautiful",
+    "albumId": 3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/96/I_Am..._Sasha_Fierce.png"
+  },
+  {
+    "id": 37,
+    "name": "Diva",
+    "albumId": 3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/96/I_Am..._Sasha_Fierce.png"
+  },
+  {
+    "id": 38,
+    "name": "Save the Hero",
+    "albumId": 3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/96/I_Am..._Sasha_Fierce.png"
+  },
+  {
+    "id": 39,
+    "name": "Single Ladies (Put a Ring on It)",
+    "albumId": 3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/96/I_Am..._Sasha_Fierce.png"
+  },
+  {
+    "id": 40,
+    "name": "Radio",
+    "albumId": 3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/96/I_Am..._Sasha_Fierce.png"
+  },
+  {
+    "id": 41,
+    "name": "Sweet Dreams",
+    "albumId": 3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/96/I_Am..._Sasha_Fierce.png"
+  },
+  {
+    "id": 42,
+    "name": "Video Phone",
+    "albumId": 3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/96/I_Am..._Sasha_Fierce.png"
+  },
+  {
+    "id": 43,
+    "name": "Hello",
+    "albumId": 3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/96/I_Am..._Sasha_Fierce.png"
+  },
+  {
+    "id": 44,
+    "name": "Ego",
+    "albumId": 3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/96/I_Am..._Sasha_Fierce.png"
+  },
+  {
+    "id": 45,
+    "name": "Scared of Lonely",
+    "albumId": 3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/96/I_Am..._Sasha_Fierce.png"
+  },
+  {
+    "id": 46,
+    "name": "Why Don't you Love Me",
+    "albumId": 3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/96/I_Am..._Sasha_Fierce.png"
+  },
+
+  {
+    "id": 47,
+    "name": "Poison",
+    "albumId": 3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/96/I_Am..._Sasha_Fierce.png"
+  },
+
+  {
+    "id": 48,
+    "name": "Honesty",
+    "albumId": 3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/96/I_Am..._Sasha_Fierce.png"
+  },
+
+  {
+    "id": 49,
+    "name": "Fever",
+    "albumId": 3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/96/I_Am..._Sasha_Fierce.png"
+  },
+  {
+    "id": 50,
+    "name": "1+1",
+    "albumId": 4,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/ca/Beyonc%C3%A9_-_4.png"
+  },
+  {
+    "id": 51,
+    "name": "I Care",
+    "albumId": 4,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/ca/Beyonc%C3%A9_-_4.png"
+  },
+  {
+    "id": 52,
+    "name": "I Miss You",
+    "albumId": 4,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/ca/Beyonc%C3%A9_-_4.png"
+  },
+  {
+    "id": 53,
+    "name": "Best Thing I Never Had",
+    "albumId": 4,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/ca/Beyonc%C3%A9_-_4.png"
+  },
+  {
+    "id": 54,
+    "name": "Party (ft André 3000",
+    "albumId": 4,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/ca/Beyonc%C3%A9_-_4.png"
+  },
+  {
+    "id": 55,
+    "name": "Rather Die Young",
+    "albumId": 4,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/ca/Beyonc%C3%A9_-_4.png"
+  },
+  {
+    "id": 56,
+    "name": "Start Over",
+    "albumId": 4,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/ca/Beyonc%C3%A9_-_4.png"
+  },
+  {
+    "id": 57,
+    "name": "Love on Top",
+    "albumId": 4,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/ca/Beyonc%C3%A9_-_4.png"
+  },
+  {
+    "id": 58,
+    "name": "Countdown",
+    "albumId": 4,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/ca/Beyonc%C3%A9_-_4.png"
+  },
+  {
+    "id": 59,
+    "name": "End of Time",
+    "albumId": 4,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/ca/Beyonc%C3%A9_-_4.png"
+  },
+  {
+    "id": 60,
+    "name": "I Was Here",
+    "albumId": 4,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/ca/Beyonc%C3%A9_-_4.png"
+  },
+  {
+    "id": 61,
+    "name": "Run the World (Girls)",
+    "albumId": 4,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/ca/Beyonc%C3%A9_-_4.png"
+  },
+  {
+    "id": 62,
+    "name": "Lay Up Under Me",
+    "albumId": 4,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/ca/Beyonc%C3%A9_-_4.png"
+  },
+  {
+    "id": 63,
+    "name": "Schoolin' Life",
+    "albumId": 4,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/ca/Beyonc%C3%A9_-_4.png"
+  },
+  {
+    "id": 64,
+    "name": "Dance for You",
+    "albumId": 4,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/ca/Beyonc%C3%A9_-_4.png"
+  },
+  {
+    "id": 65,
+    "name": "Dreaming",
+    "albumId": 4,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/ca/Beyonc%C3%A9_-_4.png"
+  },
+  {
+    "id": 66,
+    "name": "Pretty Hurts",
+    "albumId": 5,
+    "imageUrl": "https://i.discogs.com/scq1oRmwXZHFZKOEqZkzjH1xvVVbD-9zCmAgepbgfs8/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTYxMTIyODU1/NC04NDA3LnBuZw.jpeg"
+  },
+  {
+    "id": 67,
+    "name": "Haunted",
+    "albumId": 5,
+    "imageUrl": "https://i.discogs.com/scq1oRmwXZHFZKOEqZkzjH1xvVVbD-9zCmAgepbgfs8/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTYxMTIyODU1/NC04NDA3LnBuZw.jpeg"
+  },
+  {
+    "id": 68,
+    "name": "Drunk in Love (ft Jay-Z)",
+    "albumId": 5,
+    "imageUrl": "https://i.discogs.com/scq1oRmwXZHFZKOEqZkzjH1xvVVbD-9zCmAgepbgfs8/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTYxMTIyODU1/NC04NDA3LnBuZw.jpeg"
+  },
+  {
+    "id": 69,
+    "name": "Blow",
+    "albumId": 5,
+    "imageUrl": "https://i.discogs.com/scq1oRmwXZHFZKOEqZkzjH1xvVVbD-9zCmAgepbgfs8/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTYxMTIyODU1/NC04NDA3LnBuZw.jpeg"
+  },
+  {
+    "id": 70,
+    "name": "No Angel",
+    "albumId": 5,
+    "imageUrl": "https://i.discogs.com/scq1oRmwXZHFZKOEqZkzjH1xvVVbD-9zCmAgepbgfs8/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTYxMTIyODU1/NC04NDA3LnBuZw.jpeg"
+  },
+  {
+    "id": 71,
+    "name": "Partition",
+    "albumId": 5,
+    "imageUrl": "https://i.discogs.com/scq1oRmwXZHFZKOEqZkzjH1xvVVbD-9zCmAgepbgfs8/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTYxMTIyODU1/NC04NDA3LnBuZw.jpeg"
+  },
+  {
+    "id": 72,
+    "name": "Jealous",
+    "albumId": 5,
+    "imageUrl": "https://i.discogs.com/scq1oRmwXZHFZKOEqZkzjH1xvVVbD-9zCmAgepbgfs8/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTYxMTIyODU1/NC04NDA3LnBuZw.jpeg"
+  },
+  {
+    "id": 73,
+    "name": "Rocket",
+    "albumId": 5,
+    "imageUrl": "https://i.discogs.com/scq1oRmwXZHFZKOEqZkzjH1xvVVbD-9zCmAgepbgfs8/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTYxMTIyODU1/NC04NDA3LnBuZw.jpeg"
+  },
+  {
+    "id": 74,
+    "name": "Mine (ft Drake)",
+    "albumId": 5,
+    "imageUrl": "https://i.discogs.com/scq1oRmwXZHFZKOEqZkzjH1xvVVbD-9zCmAgepbgfs8/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTYxMTIyODU1/NC04NDA3LnBuZw.jpeg"
+  },
+  {
+    "id": 75,
+    "name": "XO",
+    "albumId": 5,
+    "imageUrl": "https://i.discogs.com/scq1oRmwXZHFZKOEqZkzjH1xvVVbD-9zCmAgepbgfs8/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTYxMTIyODU1/NC04NDA3LnBuZw.jpeg"
+  },
+  {
+    "id": 76,
+    "name": "***Flawless",
+    "albumId": 5,
+    "imageUrl": "https://i.discogs.com/scq1oRmwXZHFZKOEqZkzjH1xvVVbD-9zCmAgepbgfs8/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTYxMTIyODU1/NC04NDA3LnBuZw.jpeg"
+  },
+  {
+    "id": 77,
+    "name": "Superpower",
+    "albumId": 5,
+    "imageUrl": "https://i.discogs.com/scq1oRmwXZHFZKOEqZkzjH1xvVVbD-9zCmAgepbgfs8/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTYxMTIyODU1/NC04NDA3LnBuZw.jpeg"
+  },
+  {
+    "id": 78,
+    "name": "Heaven",
+    "albumId": 5,
+    "imageUrl": "https://i.discogs.com/scq1oRmwXZHFZKOEqZkzjH1xvVVbD-9zCmAgepbgfs8/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTYxMTIyODU1/NC04NDA3LnBuZw.jpeg"
+  },
+  {
+    "id": 79,
+    "name": "Blue",
+    "albumId": 5,
+    "imageUrl": "https://i.discogs.com/scq1oRmwXZHFZKOEqZkzjH1xvVVbD-9zCmAgepbgfs8/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTYxMTIyODU1/NC04NDA3LnBuZw.jpeg"
+  },
+  {
+    "id": 80,
+    "name": "Grown Woman",
+    "albumId": 5,
+    "imageUrl": "https://i.discogs.com/scq1oRmwXZHFZKOEqZkzjH1xvVVbD-9zCmAgepbgfs8/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4OTAz/ODItMTYxMTIyODU1/NC04NDA3LnBuZw.jpeg"
+  },
+  {
+    "id": 81,
+    "name": "Pray You Catch Me",
+    "albumId": 6,
+    "imageUrl": "https://silenciowp.s3.amazonaws.com/wp-content/uploads/2016/05/LEMONADE.jpg"
+  },
+  {
+    "id": 82,
+    "name": "Hold Up",
+    "albumId": 6,
+    "imageUrl": "https://silenciowp.s3.amazonaws.com/wp-content/uploads/2016/05/LEMONADE.jpg"
+  },
+  {
+    "id": 83,
+    "name": "Don't Hurt Yourself",
+    "albumId": 6,
+    "imageUrl": "https://silenciowp.s3.amazonaws.com/wp-content/uploads/2016/05/LEMONADE.jpg"
+  },
+  {
+    "id": 84,
+    "name": "Sorry",
+    "albumId": 6,
+    "imageUrl": "https://silenciowp.s3.amazonaws.com/wp-content/uploads/2016/05/LEMONADE.jpg"
+  },
+  {
+    "id": 85,
+    "name": "6 Inch (ft The Weeknd)",
+    "albumId": 6,
+    "imageUrl": "https://silenciowp.s3.amazonaws.com/wp-content/uploads/2016/05/LEMONADE.jpg"
+  },
+  {
+    "id": 86,
+    "name": "Daddy Lessons",
+    "albumId": 6,
+    "imageUrl": "https://silenciowp.s3.amazonaws.com/wp-content/uploads/2016/05/LEMONADE.jpg"
+  },
+  {
+    "id": 87,
+    "name": "Love Drought",
+    "albumId": 6,
+    "imageUrl": "https://silenciowp.s3.amazonaws.com/wp-content/uploads/2016/05/LEMONADE.jpg"
+  },
+  {
+    "id": 88,
+    "name": "Sandcastles",
+    "albumId": 6,
+    "imageUrl": "https://silenciowp.s3.amazonaws.com/wp-content/uploads/2016/05/LEMONADE.jpg"
+  },
+  {
+    "id": 89,
+    "name": "Forward",
+    "albumId": 6,
+    "imageUrl": "https://silenciowp.s3.amazonaws.com/wp-content/uploads/2016/05/LEMONADE.jpg"
+  },
+  {
+    "id": 90,
+    "name": "Freedom (ft Kendrick Lamar)",
+    "albumId": 6,
+    "imageUrl": "https://silenciowp.s3.amazonaws.com/wp-content/uploads/2016/05/LEMONADE.jpg"
+  },
+  {
+    "id": 91,
+    "name": "All Night",
+    "albumId": 6,
+    "imageUrl": "https://silenciowp.s3.amazonaws.com/wp-content/uploads/2016/05/LEMONADE.jpg"
+  },
+  {
+    "id": 92,
+    "name": "Formation",
+    "albumId": 6,
+    "imageUrl": "https://silenciowp.s3.amazonaws.com/wp-content/uploads/2016/05/LEMONADE.jpg"
+  },
+  {
+    "id": 93,
+    "name": "Bigger",
+    "albumId": 7,
+    "imageUrl": "https://i.discogs.com/TW_D-ESrmgKRqVPmvxv5Rah-iv_nFhi1TCtso3ve6Dg/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjI3/NTAzLTE2MTQ1MjQ3/MTQtNTQ1Mi5qcGVn.jpeg"
+  },
+  {
+    "id": 94,
+    "name": "Find Your Way Back",
+    "albumId": 7,
+    "imageUrl": "https://i.discogs.com/TW_D-ESrmgKRqVPmvxv5Rah-iv_nFhi1TCtso3ve6Dg/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjI3/NTAzLTE2MTQ1MjQ3/MTQtNTQ1Mi5qcGVn.jpeg"
+  },
+  {
+    "id": 95,
+    "name": "Don't Jealous Me",
+    "albumId": 7,
+    "imageUrl": "https://i.discogs.com/TW_D-ESrmgKRqVPmvxv5Rah-iv_nFhi1TCtso3ve6Dg/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjI3/NTAzLTE2MTQ1MjQ3/MTQtNTQ1Mi5qcGVn.jpeg"
+  },
+  {
+    "id": 96,
+    "name": "Ja Ara E",
+    "albumId": 7,
+    "imageUrl": "https://i.discogs.com/TW_D-ESrmgKRqVPmvxv5Rah-iv_nFhi1TCtso3ve6Dg/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjI3/NTAzLTE2MTQ1MjQ3/MTQtNTQ1Mi5qcGVn.jpeg"
+  },
+  {
+    "id": 97,
+    "name": "Nile",
+    "albumId": 7,
+    "imageUrl": "https://i.discogs.com/TW_D-ESrmgKRqVPmvxv5Rah-iv_nFhi1TCtso3ve6Dg/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjI3/NTAzLTE2MTQ1MjQ3/MTQtNTQ1Mi5qcGVn.jpeg"
+  },
+  {
+    "id": 98,
+    "name": "Mood 4 Eva",
+    "albumId": 7,
+    "imageUrl": "https://i.discogs.com/TW_D-ESrmgKRqVPmvxv5Rah-iv_nFhi1TCtso3ve6Dg/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjI3/NTAzLTE2MTQ1MjQ3/MTQtNTQ1Mi5qcGVn.jpeg"
+  },
+  {
+    "id": 99,
+    "name": "Water",
+    "albumId": 7,
+    "imageUrl": "https://i.discogs.com/TW_D-ESrmgKRqVPmvxv5Rah-iv_nFhi1TCtso3ve6Dg/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjI3/NTAzLTE2MTQ1MjQ3/MTQtNTQ1Mi5qcGVn.jpeg"
+  },
+  {
+    "id": 100,
+    "name": "Brown Skin Girl",
+    "albumId": 7,
+    "imageUrl": "https://i.discogs.com/TW_D-ESrmgKRqVPmvxv5Rah-iv_nFhi1TCtso3ve6Dg/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjI3/NTAzLTE2MTQ1MjQ3/MTQtNTQ1Mi5qcGVn.jpeg"
+  },
+  {
+    "id": 101,
+    "name": "Keys to the Kingdom",
+    "albumId": 7,
+    "imageUrl": "https://i.discogs.com/TW_D-ESrmgKRqVPmvxv5Rah-iv_nFhi1TCtso3ve6Dg/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjI3/NTAzLTE2MTQ1MjQ3/MTQtNTQ1Mi5qcGVn.jpeg"
+  },
+  {
+    "id": 102,
+    "name": "Already",
+    "albumId": 7,
+    "imageUrl": "https://i.discogs.com/TW_D-ESrmgKRqVPmvxv5Rah-iv_nFhi1TCtso3ve6Dg/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjI3/NTAzLTE2MTQ1MjQ3/MTQtNTQ1Mi5qcGVn.jpeg"
+  },
+  {
+    "id": 103,
+    "name": "Otherside",
+    "albumId": 7,
+    "imageUrl": "https://i.discogs.com/TW_D-ESrmgKRqVPmvxv5Rah-iv_nFhi1TCtso3ve6Dg/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjI3/NTAzLTE2MTQ1MjQ3/MTQtNTQ1Mi5qcGVn.jpeg"
+  },
+  {
+    "id": 104,
+    "name": "My Power",
+    "albumId": 7,
+    "imageUrl": "https://i.discogs.com/TW_D-ESrmgKRqVPmvxv5Rah-iv_nFhi1TCtso3ve6Dg/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjI3/NTAzLTE2MTQ1MjQ3/MTQtNTQ1Mi5qcGVn.jpeg"
+  },
+  {
+    "id": 105,
+    "name": "Scar",
+    "albumId": 7,
+    "imageUrl": "https://i.discogs.com/TW_D-ESrmgKRqVPmvxv5Rah-iv_nFhi1TCtso3ve6Dg/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjI3/NTAzLTE2MTQ1MjQ3/MTQtNTQ1Mi5qcGVn.jpeg"
+  },
+  {
+    "id": 106,
+    "name": "Spirit",
+    "albumId": 7,
+    "imageUrl": "https://i.discogs.com/TW_D-ESrmgKRqVPmvxv5Rah-iv_nFhi1TCtso3ve6Dg/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjI3/NTAzLTE2MTQ1MjQ3/MTQtNTQ1Mi5qcGVn.jpeg"
+  },
+  {
+    "id": 107,
+    "name": "Black Parade",
+    "albumId": 7,
+    "imageUrl": "https://i.discogs.com/TW_D-ESrmgKRqVPmvxv5Rah-iv_nFhi1TCtso3ve6Dg/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjI3/NTAzLTE2MTQ1MjQ3/MTQtNTQ1Mi5qcGVn.jpeg"
+  },
+  {
+    "id": 108,
+    "name": "I'm That Girl",
+    "albumId": 8,
+    "imageUrl": "https://m.media-amazon.com/images/I/31Zk63xOu3L._SX300_SY300_QL70_ML2_.jpg"
+  },
+  {
+    "id": 109,
+    "name": "Cozy",
+    "albumId": 8,
+    "imageUrl": "https://m.media-amazon.com/images/I/31Zk63xOu3L._SX300_SY300_QL70_ML2_.jpg"
+  },
+  {
+    "id": 110,
+    "name": "Alien Superstar",
+    "albumId": 8,
+    "imageUrl": "https://m.media-amazon.com/images/I/31Zk63xOu3L._SX300_SY300_QL70_ML2_.jpg"
+  },
+  {
+    "id": 111,
+    "name": "Cuff It",
+    "albumId": 8,
+    "imageUrl": "https://m.media-amazon.com/images/I/31Zk63xOu3L._SX300_SY300_QL70_ML2_.jpg"
+  },
+  {
+    "id": 112,
+    "name": "Energy (ft Beam)",
+    "albumId": 8,
+    "imageUrl": "https://m.media-amazon.com/images/I/31Zk63xOu3L._SX300_SY300_QL70_ML2_.jpg"
+  },
+  {
+    "id": 113,
+    "name": "Break My Soul",
+    "albumId": 8,
+    "imageUrl": "https://m.media-amazon.com/images/I/31Zk63xOu3L._SX300_SY300_QL70_ML2_.jpg"
+  },
+  {
+    "id": 114,
+    "name": "Church Girl",
+    "albumId": 8,
+    "imageUrl": "https://m.media-amazon.com/images/I/31Zk63xOu3L._SX300_SY300_QL70_ML2_.jpg"
+  },
+  {
+    "id": 115,
+    "name": "Plastic off the Sofa",
+    "albumId": 8,
+    "imageUrl": "https://m.media-amazon.com/images/I/31Zk63xOu3L._SX300_SY300_QL70_ML2_.jpg"
+  },
+  {
+    "id": 116,
+    "name": "Virgo's Groove",
+    "albumId": 8,
+    "imageUrl": "https://m.media-amazon.com/images/I/31Zk63xOu3L._SX300_SY300_QL70_ML2_.jpg"
+  },
+  {
+    "id": 117,
+    "name": "Move",
+    "albumId": 8,
+    "imageUrl": "https://m.media-amazon.com/images/I/31Zk63xOu3L._SX300_SY300_QL70_ML2_.jpg"
+  },
+  {
+    "id": 118,
+    "name": "Heated",
+    "albumId": 8,
+    "imageUrl": "https://m.media-amazon.com/images/I/31Zk63xOu3L._SX300_SY300_QL70_ML2_.jpg"
+  },
+  {
+    "id": 119,
+    "name": "Thique",
+    "albumId": 8,
+    "imageUrl": "https://m.media-amazon.com/images/I/31Zk63xOu3L._SX300_SY300_QL70_ML2_.jpg"
+  },
+  {
+    "id": 120,
+    "name": "All Up in Your Mind",
+    "albumId": 8,
+    "imageUrl": "https://m.media-amazon.com/images/I/31Zk63xOu3L._SX300_SY300_QL70_ML2_.jpg"
+  },
+  {
+    "id": 121,
+    "name": "America Has a Problem",
+    "albumId": 8,
+    "imageUrl": "https://m.media-amazon.com/images/I/31Zk63xOu3L._SX300_SY300_QL70_ML2_.jpg"
+  },
+  {
+    "id": 122,
+    "name": "Pure/Honey",
+    "albumId": 8,
+    "imageUrl": "https://m.media-amazon.com/images/I/31Zk63xOu3L._SX300_SY300_QL70_ML2_.jpg"
+  },
+  {
+    "id": 123,
+    "name": "Summer Renaissance",
+    "albumId": 8,
+    "imageUrl": "https://m.media-amazon.com/images/I/31Zk63xOu3L._SX300_SY300_QL70_ML2_.jpg"
+  }
+]

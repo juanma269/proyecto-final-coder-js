@@ -1,42 +1,52 @@
-body{
-    padding: 0;
-    border: 0;
-    background-color: black;
-    background-image: url(../img/beyonce.webp);
-    color: aliceblue;
-    background-repeat: no-repeat;
-    background-size: cover;
+body {
+  padding: 0;
+  border: 0;
+  background-color: black;
+  background-image: url(../img/beyonce.webp);
+  color: aliceblue;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
-h1{
-    color: aliceblue;
-    text-align: center;
-    padding: 50px;
+h1 {
+  color: aliceblue;
+  text-align: center;
+  padding: 50px;
 }
-.btn{
-    background-color: darkgoldenrod !important;
-    color: aliceblue !important;
-    border-bottom: black;
-    
+.btn {
+  background-color: darkgoldenrod !important;
+  color: aliceblue !important;
+  border-bottom: black;
+  align-items: center;
 }
-.btn:hover{
-    background-color: #b0b300;
-    box-shadow: 0 0 8px rgba(222, 239, 70, 0.645);
-    color: darkgray;
-    border-bottom: black;
+.btn:hover {
+  background-color: #b0b300;
+  box-shadow: 0 0 8px rgba(222, 239, 70, 0.645);
+  color: darkgray;
+  border-bottom: black;
 }
-.buscador{
-    align-items: center;
-    display: flex;
-    flex-direction: column;
+.buscador {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
 }
-.inputBusqueda{
-    margin: 20px;
+.inputBusqueda {
+  margin: 20px;
 }
 #resultado.hidden {
-    display: none;
-}  
-.resultado{
-    margin: 50px;
-    color: aliceblue;
-    background-color: rgba(39, 38, 38, 0.533);
+  display: none;
+}
+.resultado {
+  margin: 50px;
+  color: aliceblue;
+  background-color: rgba(39, 38, 38, 0.533);
+  align-content: center;
+}
+.resultado2 {
+  margin: 50px;
+  color: aliceblue;
+  align-content: center;
+}
+#agregarFav {
+  align-self: center !important;
+  margin: 20px;
 }

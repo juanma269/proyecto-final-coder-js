@@ -11,6 +11,8 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
         crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+
     <link rel="icon" type="image/x-icon" href="./img/favicon.ico">
 
     <title>Bey-Albums</title>
@@ -22,28 +24,23 @@
         <div class="buscador row-align-items-center">
             <select class="form-select" aria-label="Default select example" id="buscarPor">
                 <option selected>Haz click para seleccionar tu metodo de busqueda</option>
-                <option value="name">Por Cancion</option>
+                <option value="song">Por Cancion</option>
                 <option value="album">Por Album</option>
                 <option value="year">Por Año</option>
             </select>
             <input type="text" class="form-control inputBusqueda" id="inputBusqueda" placeholder="Escribe tu busqueda">
             <button type="button" class="btn" id="buscarBoton">Buscar</button>
         </div>
-
         <div class="resultado hidden" id="resultado">
-            <p>Nombre: </p>
-            <p>Álbum: </p>
-            <p>Artista: </p>
-            <p>Año: </p>
-            <img class="album-image" src="" alt="Imagen del álbum">
         </div>
     </div>
 
 
 
 
-    <script src="albums.js"></script>
     <script src="app.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+
 </body>
 
 </html>
